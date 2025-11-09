@@ -1,5 +1,5 @@
 # Atmel 8-bit AVR programs on Arduino Nano
-These are programs developed during lab sessions as part of my Computer Systems module at King's College London, taught by Josh Murphy. (Lab 3 is missing for now)
+These are programs developed during lab sessions as part of my Computer Systems module at King's College London, taught by Josh Murphy.
 ## Things to know:
 - Clock Speed (theoretical): 20MHz
 - Clock speed (actual): 16MHz
