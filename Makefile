@@ -1,5 +1,5 @@
 PORT=com5
-FILE=blink_delay
+FILE=swap_nibbles
 
 build: clean
 	avr-as -g -mmcu=atmega328p -o $(FILE).o $(FILE).s
